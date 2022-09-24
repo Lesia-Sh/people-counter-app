@@ -3,11 +3,12 @@ body {
   text-align: center;
   margin: auto;
   background-color: chocolate;
+  padding-top: 90px;
 }
 button {
   border: none;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   color: white;
   font-weight: bold;
   width: 200px;
@@ -20,3 +21,6 @@ button {
 #save-btn {
   background: darkgreen;
 }
+/* #tapping-test-header {
+  margin-top: 90px;
+} */

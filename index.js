@@ -81,7 +81,8 @@ function increment() {
 function save() {
   let countScr = count + " - ";
   saveEl.textContent += countScr;
-  console.log(count);
+  countEl.textContent = 0;
+  count = 0;
 }
 
 // let username = "Lesia";

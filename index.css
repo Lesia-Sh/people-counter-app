@@ -1,3 +1,9 @@
+body {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  background-color: chocolate;
+}
 button {
   border: none;
   padding-top: 10px;
@@ -9,7 +15,7 @@ button {
   border-radius: 5px;
 }
 #increment-btn {
-  background: darkred;
+  background-color: rgb(139, 61, 5);
 }
 #save-btn {
   background: darkgreen;
